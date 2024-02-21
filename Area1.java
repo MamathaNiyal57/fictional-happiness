@@ -21,5 +21,11 @@ public class Area1
     {
         int ans = value * height ;
         return ans;
+
+    public static int addition(int num1,int num2)
+    {
+        int sum = num1 + num2 ;
+        return sum;
+
     }
 }
